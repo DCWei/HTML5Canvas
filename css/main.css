@@ -1,0 +1,17 @@
+.container {
+	display: flex;
+	flex-wrap: wrap;
+}
+.image-container {
+	width: 66%;
+}
+.input-container {
+	width:33%;
+}
+.input-item {
+	width: 100%;
+}
+#image-file {
+	width: 100%;
+}
+
